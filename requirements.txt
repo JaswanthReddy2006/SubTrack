@@ -1,0 +1,4 @@
+pymongo>=4.0.0
+plyer>=2.1.0
+customtkinter>=6.0.0
+pyinstaller>=6.0.0

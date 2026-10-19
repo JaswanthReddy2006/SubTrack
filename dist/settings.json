@@ -1,0 +1,4 @@
+{
+    "mongo_uri": "mongodb+srv://njrp1970_db_user:a0jGwbJXqqVCyYKF@cluster0.emaiqry.mongodb.net/",
+    "reminder_days": 3
+}
