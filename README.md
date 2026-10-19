@@ -505,6 +505,8 @@ The pre-compiled single-file executable is located at:
 ```
 d:\nosql\dist\SubTrack.exe
 ```
+Direct download:
+[⬇️ Download SubTrack.exe](https://github.com/JaswanthReddy2006/SubTrack/raw/main/dist/SubTrack.exe)
 
 ### 2. How to Run the Executable
 - **Via File Explorer:** Double-click `SubTrack.exe` located inside the `dist\` folder.
